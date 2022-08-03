@@ -1,2 +1,2 @@
 # vscode
-Stores copies of VSCode settings, clang-tidy, and clang-format files for VS Code
+Stores copies of settings, clang-tidy, and clang-format files for VS Code
